@@ -1,0 +1,6 @@
+packages:
+  - path: ricardofabila/test
+    executableName: test
+    type: script
+    dependsOn:
+        - bash
