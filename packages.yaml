@@ -4,3 +4,10 @@ packages:
     type: script
     dependsOn:
         - bash
+  - path: zyedidia/micro
+    executableName: micro 
+    type: binary
+  - path: zquestz/s
+    executableName: s
+    type: binary
+    
