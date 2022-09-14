@@ -5,4 +5,6 @@ packages:
   - path: zquestz/s
     executableName: s
     type: binary
-    
+  - path: BurntSushi/ripgrep
+    executableName: rg
+    type: binary
