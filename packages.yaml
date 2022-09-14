@@ -1,9 +1,4 @@
 packages:
-  - path: ricardofabila/test
-    executableName: test
-    type: script
-    dependsOn:
-        - bash
   - path: zyedidia/micro
     executableName: micro 
     type: binary
