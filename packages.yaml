@@ -8,3 +8,8 @@ packages:
   - path: BurntSushi/ripgrep
     executableName: rg
     type: binary
+  - path: ricardofabila/rand-stand
+    executableName: rand-stand
+    type: script
+    dependsOn:
+      - "bun"
