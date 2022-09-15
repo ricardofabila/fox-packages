@@ -13,3 +13,6 @@ packages:
     type: script
     dependsOn:
       - "bun"
+  - path: sharkdp/hyperfine
+    executableName: hyperfine
+    type: binary
