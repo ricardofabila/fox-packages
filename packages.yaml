@@ -22,4 +22,9 @@ packages:
   - path: junegunn/fzf
     executableName: fzf
     type: binary
+  - path: sharkdp/bat
+    executableName: bat
+    type: binary
+
+
 
