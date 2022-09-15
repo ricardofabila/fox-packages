@@ -16,3 +16,6 @@ packages:
   - path: sharkdp/hyperfine
     executableName: hyperfine
     type: binary
+  - path: ogham/exa
+    executableName: exa
+    type: binary
