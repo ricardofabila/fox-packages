@@ -19,3 +19,7 @@ packages:
   - path: ogham/exa
     executableName: exa
     type: binary
+  - path: junegunn/fzf
+    executableName: fzf
+    type: binary
+
