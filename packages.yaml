@@ -25,6 +25,9 @@ packages:
   - path: sharkdp/bat
     executableName: bat
     type: binary
+  - path: cli/cli
+    executableName: gh
+    type: binary
 
 
 
