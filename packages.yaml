@@ -25,9 +25,6 @@ packages:
   - path: sharkdp/bat
     executableName: bat
     type: binary
-  - path: cli/cli
-    executableName: gh
-    type: binary
   - path: antonmedv/fx
     executableName: fx
     type: binary
