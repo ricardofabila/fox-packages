@@ -40,6 +40,6 @@ packages:
   - path: itchyny/gojq
     executableName: gojq
     type: binary
-  - path: koalaman/shellcheck
-    executableName: shellcheck
-    type: binary
+#   - path: koalaman/shellcheck
+#     executableName: shellcheck
+#     type: binary
