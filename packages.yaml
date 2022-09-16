@@ -28,4 +28,18 @@ packages:
   - path: antonmedv/fx
     executableName: fx
     type: binary
-    
+  - path: sharkdp/fd
+    executableName: fd
+    type: binary
+  - path: extrawurst/gitui
+    executableName: gitui
+    type: binary
+  - path: stedolan/jq
+    executableName: jq
+    type: binary    
+  - path: itchyny/gojq
+    executableName: gojq
+    type: binary
+  - path: koalaman/shellcheck
+    executableName: shellcheck
+    type: binary
