@@ -40,6 +40,9 @@ packages:
   - path: itchyny/gojq
     executableName: gojq
     type: binary
+  - path: lemnos/tt
+    executableName: tt
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
