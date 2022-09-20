@@ -1,7 +1,4 @@
 packages:
-  - path: cli/cli
-    executableName: gh
-    type: binary
   - path: zyedidia/micro
     executableName: micro 
     type: binary
