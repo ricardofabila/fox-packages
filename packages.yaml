@@ -34,6 +34,9 @@ packages:
   - path: extrawurst/gitui
     executableName: gitui
     type: binary
+  - path: mikefarah/yq
+    executableName: yq
+    type: binary
   - path: stedolan/jq
     executableName: jq
     type: binary    
