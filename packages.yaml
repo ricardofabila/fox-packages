@@ -46,6 +46,12 @@ packages:
   - path: lemnos/tt
     executableName: tt
     type: binary
+  - path: JoaoDanielRufino/gcloc
+    executableName: gcloc
+    type: binary
+  - path: XAMPPRocky/tokei
+    executableName: tokei
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
