@@ -52,6 +52,9 @@ packages:
   - path: XAMPPRocky/tokei
     executableName: tokei
     type: binary
+  - path: dylanaraps/neofetch
+    type: script
+    executableName: neofetch
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
