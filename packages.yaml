@@ -61,7 +61,9 @@ packages:
   - path: dalance/procs
     type: binary
     executableName: procs
-
+  - path: casey/just
+    executableName: just
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
