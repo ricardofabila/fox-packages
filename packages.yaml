@@ -67,6 +67,9 @@ packages:
   - path: dandavison/delta
     executableName: delta
     type: binary
+  - path: Code-Hex/pget
+    executableName: pget
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
