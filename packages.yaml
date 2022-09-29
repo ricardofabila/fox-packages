@@ -55,6 +55,13 @@ packages:
   - path: dylanaraps/neofetch
     type: script
     executableName: neofetch
+  - path: Byron/dua-cli
+    type: binary
+    executableName: dua
+  - path: dalance/procs
+    type: binary
+    executableName: procs
+
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
