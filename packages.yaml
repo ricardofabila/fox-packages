@@ -64,6 +64,9 @@ packages:
   - path: casey/just
     executableName: just
     type: binary
+  - path: dandavison/delta
+    executableName: delta
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
