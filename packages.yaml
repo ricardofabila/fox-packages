@@ -70,6 +70,9 @@ packages:
   - path: Code-Hex/pget
     executableName: pget
     type: binary
+  - path: PaulJuliusMartinez/jless
+    executableName: jless
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
