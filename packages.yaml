@@ -73,6 +73,9 @@ packages:
   - path: PaulJuliusMartinez/jless
     executableName: jless
     type: binary
+  - path: sxyazi/yazi
+    executableName: yazi
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
