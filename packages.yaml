@@ -76,6 +76,9 @@ packages:
   - path: sxyazi/yazi
     executableName: yazi
     type: binary
+  - path: antonmedv/walk
+    executableName: walk
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
