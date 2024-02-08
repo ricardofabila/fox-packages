@@ -16,8 +16,8 @@ packages:
   - path: sharkdp/hyperfine
     executableName: hyperfine
     type: binary
-  - path: ogham/exa
-    executableName: exa
+  - path: eza-community/eza
+    executableName: eza
     type: binary
   - path: junegunn/fzf
     executableName: fzf
