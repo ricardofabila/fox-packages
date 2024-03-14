@@ -79,6 +79,9 @@ packages:
   - path: antonmedv/walk
     executableName: walk
     type: binary
+  - path: mprocs/releases
+    executableName: mprocs
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
