@@ -82,6 +82,9 @@ packages:
   - path: pvolok/mprocs
     executableName: mprocs
     type: binary
+  - path: noahgorstein/jqp
+    executableName: jqp
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
