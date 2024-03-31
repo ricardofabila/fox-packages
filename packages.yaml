@@ -85,6 +85,9 @@ packages:
   - path: noahgorstein/jqp
     executableName: jqp
     type: binary
+  - path: Y2Z/monolith
+    executableName: monolith
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
