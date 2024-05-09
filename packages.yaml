@@ -88,6 +88,9 @@ packages:
   - path: Y2Z/monolith
     executableName: monolith
     type: binary
+  - path: logdyhq/logdy-core
+    executableName: lodgy
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
