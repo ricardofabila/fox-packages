@@ -89,7 +89,7 @@ packages:
     executableName: monolith
     type: binary
   - path: logdyhq/logdy-core
-    executableName: lodgy
+    executableName: logdy
     type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
