@@ -95,7 +95,7 @@ packages:
     executableName: spf
     type: binary
   - path: https://github.com/go-go-golems/glazed
-    executableName: glazed
+    executableName: glaze
     type: binary    
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
