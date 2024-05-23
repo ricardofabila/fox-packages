@@ -94,6 +94,9 @@ packages:
   - path: yorukot/superfile
     executableName: spf
     type: binary
+  - path: https://github.com/go-go-golems/glazed
+    executableName: glazed
+    type: binary    
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
