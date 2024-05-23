@@ -91,6 +91,9 @@ packages:
   - path: logdyhq/logdy-core
     executableName: logdy
     type: binary
+  - path: yorukot/superfile
+    executableName: spf
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
