@@ -94,9 +94,12 @@ packages:
   - path: yorukot/superfile
     executableName: spf
     type: binary
-  - path: https://github.com/go-go-golems/glazed
+  - path: go-go-golems/glazed
     executableName: glaze
-    type: binary    
+    type: binary
+  - path: mike-engel/jwt-cli
+    executableName: jwt
+    type: binary
 #   - path: koalaman/shellcheck
 #     executableName: shellcheck
 #     type: binary
