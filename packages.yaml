@@ -1,4 +1,7 @@
 packages:
+  - path: ricardofabila/querydb
+    executableName: querydb
+    type: binary
   - path: zyedidia/micro
     executableName: micro 
     type: binary
